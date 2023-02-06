@@ -1,0 +1,9 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.leaflet-container {
+  background-color: rgb(53, 57, 84);
+}
